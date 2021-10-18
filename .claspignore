@@ -1,0 +1,4 @@
+# Ignore everything except src/schedules.js
+**/**
+!src/schedules.js
+!appsscript.json
